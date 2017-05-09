@@ -28,3 +28,7 @@
 2. 小蛇加速节点之间距离会变短。
 3. 小蛇可以180度掉头。
 4. 联机游戏
+
+
+## 截图：
+![image](https://github.com/dixonzhang/ccc_snake/blob/master/snake.png)
